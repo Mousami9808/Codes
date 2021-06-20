@@ -24,4 +24,8 @@ class TestClass {
         }
     
     }
+
+    public void tests2(){
+    	System.out.println("Hi");
+    }
 }

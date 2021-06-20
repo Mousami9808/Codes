@@ -7,6 +7,10 @@ import java.util.*;
 
 class TestClass {
 
+	public void tests2(){
+		
+	}
+
     public static void main(String args[] ) throws Exception {
           
         Scanner o = new Scanner(System.in);

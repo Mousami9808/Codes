@@ -18,6 +18,9 @@ class TestClass {
         char[] res = s.toCharArray();                 
         Map<Character,Integer> hm = new TreeMap<>();
         int[] array = new int[10];
+        for(){
+        	
+        }
         for(int i=0;i<s.length();i++){
             array[(int)(s.charAt(i)-48)]++;
           
